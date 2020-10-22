@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kGjpxyBrnrkafKy5SuYdOj1b0dKbCXTpJdbQwxrAaATxbvtaJ7uetR6q8SEn/G5tO5dY+Pzg0IyD2E79skEdTg==",
+  "success": true,
+  "projectFilePath": "/Users/casperbirk/Downloads/RAWDATA_2020_LiveCode4-master/ADOExample/ADOExample.csproj",
+  "expectedPackageFiles": [
+    "/Users/casperbirk/.nuget/packages/npgsql/4.1.5/npgsql.4.1.5.nupkg.sha512",
+    "/Users/casperbirk/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
